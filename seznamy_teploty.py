@@ -28,4 +28,4 @@ teploty = [23.4, 22.3, 26.6, 52.0, 22.4]
 
 
 # postupně (pomocí while cyklu) vyprázdni seznam teplot, odstraň vždy
-# poslednéí hodnotu a vypiš ji na obrazovku
+# poslední hodnotu a vypiš ji na obrazovku
